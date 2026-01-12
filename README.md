@@ -5,7 +5,6 @@ MNEEPay is the all-in-one platform for enterprise crypto. It seamlessly integrat
 > **The Operating System for Modern Finance.**
 > Bridging the gap between traditional corporate treasury and the MNEE Stablecoin ecosystem.
 
-![MNEEPay Dashboard](/home/eychp/.gemini/antigravity/brain/581d4127-5639-409b-a589-99af1bb22821/dashboard_success_1768086735201.png)
 
 ## 📖 Overview
 
