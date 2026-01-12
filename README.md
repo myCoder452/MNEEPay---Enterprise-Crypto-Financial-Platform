@@ -9,6 +9,8 @@ MEGA Drive: https://mega.nz/folder/i15wVSIb#PLu1CM1xQqbYVVnaDcqRKw
 
 DEMO APP: https://mneepay.netlify.app/
 
+VIDEO DEMONSTRATION: https://www.loom.com/share/1334581edde14d7fb2475795cd920346
+
 ## 📖 Overview
 
 MNEEPay is a comprehensive **Enterprise Resource Planning (ERP)** tool for the crypto age. It is designed for merchants, CFOs, and businesses that need to manage both fiat-like stablecoin operations and traditional card expenditures in one unified interface.
